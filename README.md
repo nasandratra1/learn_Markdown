@@ -60,7 +60,12 @@ J'adore *Git et Github*
 * Element 1  
     * Element 1.A  
         * Element 1.A.1  
-        * Element 1.A.2
+        * Element 1.A.2  
+
+## To do  
+* [] Roquefort  
+* [x] Cantal  
+* [] Emmental
 
 
 
