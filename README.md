@@ -36,7 +36,17 @@ J'adore *Git et Github*
     Lien vers un autre fichier [vers text.md](test.md).  
       
     # Ajouter une image  
-    ![Logo](https://www.codabee.com/images/Codabee.png).
+    ![Logo](https://www.codabee.com/images/Codabee.png)  
+
+    # Ajouter un emoji  
+
+    Pour trouver la liste des emojis disponibles avec Github: [Liste des emojis] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+
+    C'est super fun Git & Github: rofl:  
+      
+
+
+
 
 
 
