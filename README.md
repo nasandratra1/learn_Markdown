@@ -33,7 +33,10 @@ J'adore *Git et Github*
     
     Pour aller sur mon site: [Codabee](https://www.codabee.com).  
       
-    Lien vers un autre fichier [vers text.md](test.md).
+    Lien vers un autre fichier [vers text.md](test.md).  
+      
+    # Ajouter une image  
+    ![Logo](https://www.codabee.com/images/Codabee.png).
 
 
 
