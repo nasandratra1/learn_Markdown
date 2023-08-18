@@ -63,9 +63,9 @@ J'adore *Git et Github*
         * Element 1.A.2  
 
 ## To do  
-* [] Roquefort  
+* [ ] Roquefort  
 * [x] Cantal  
-* [] Emmental
+* [ ] Emmental
 
 
 
