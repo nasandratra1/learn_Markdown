@@ -38,12 +38,27 @@ J'adore *Git et Github*
     # Ajouter une image  
     ![Logo](https://www.codabee.com/images/Codabee.png)  
 
-    # Ajouter un emoji  
+# Ajouter un emoji  
 
     Pour trouver la liste des emojis disponibles avec Github: [Liste des emojis] (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 
-    C'est super fun Git & Github: rofl:  
-      
+    C'est super fun Git & Github: rofl:      
+
+# Listes  
+
+## Liste Simple  
+*Element A  
+*Element B  
+*element C  
+
+## Listes ordonnées  
+1. Carottes
+2. Choux  
+3. Lentilles
+
+
+
+
 
 
 
