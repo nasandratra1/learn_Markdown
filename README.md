@@ -47,9 +47,9 @@ J'adore *Git et Github*
 # Listes  
 
 ## Liste Simple  
-*Element A  
-*Element B  
-*element C  
+* Element A  
+* Element B  
+* Element C  
 
 ## Listes ordonnées  
 1. Carottes
